@@ -4,7 +4,7 @@
 
 基于 LLM 的极简 PID 自动调参系统 (CLI 版)
 
-![llm-pid-tuner](https://repo.x-cmd.io/llm-pid-tuner.svg)
+![llm-pid-tuner](https://repo.x-cmd.io/llm-pid-tuner.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,16 @@ x install llm-pid-tuner
 - **最新版本**: `v2.4.7` (2026-07-10)
 - **最近提交**: 2026-09-06
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-07-10T14:36:33Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [llm-pid-tuner.exe](https://github.com/KINGSTON-115/llm-pid-tuner/releases/download/v2.4.7/llm-pid-tuner.exe) | 18.6 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 845 · **Fork**: 83 · **开放 issue**: 10 · **贡献者**: 4
+- **Star**: 844 · **Fork**: 82 · **开放 issue**: 10 · **贡献者**: 4
 
 ## 累计统计
 
@@ -61,4 +66,4 @@ llm-pid-tuner 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:02:45Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:55:20Z._

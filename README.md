@@ -22,11 +22,16 @@ x install llm-pid-tuner
 - **Latest**: `v2.4.7` (2026-07-10)
 - **Last commit**: 2026-09-06
 - **Assets in release**: 1
-- **Published**: 2026-07-10T14:36:33Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [llm-pid-tuner.exe](https://github.com/KINGSTON-115/llm-pid-tuner/releases/download/v2.4.7/llm-pid-tuner.exe) | 18.6 MiB | `other` |
 
 ## Popularity
 
-- **Stars**: 845 · **Forks**: 83 · **Open issues**: 10 · **Contributors**: 4
+- **Stars**: 844 · **Forks**: 82 · **Open issues**: 10 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -57,8 +62,8 @@ Total: **17,104** lines of code across **77** files in the top 5 languages.
 Install metadata for llm-pid-tuner lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `llm-pid-tuner` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/llm-pid-tuner.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/llm-pid-tuner.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:02:44Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:55:20Z._
