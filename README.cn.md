@@ -12,6 +12,18 @@
 x install llm-pid-tuner
 ```
 
+## 代码洞察
+
+合计: **17,104** 行代码（覆盖前 5 种语言、共 **77** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 16,648 | 165 | 2,709 | 72 |
+| Cpp | 208 | 136 | 40 | 1 |
+| Sh | 132 | 3 | 43 | 1 |
+| Json | 113 | 0 | 0 | 2 |
+| Ini | 3 | 0 | 0 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/KINGSTON-115/llm-pid-tuner>
@@ -22,12 +34,6 @@ x install llm-pid-tuner
 - **最新版本**: `v2.4.7` (2026-07-10)
 - **最近提交**: 2026-09-06
 - **Release 含资产**: 1 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [llm-pid-tuner.exe](https://github.com/KINGSTON-115/llm-pid-tuner/releases/download/v2.4.7/llm-pid-tuner.exe) | 18.6 MiB | `other` |
 
 ## 流行度
 
@@ -42,20 +48,17 @@ x install llm-pid-tuner
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 2 | 0 | 0 | 1 | 1 |
+| last60d | 2026-07-12 | 0 | 2 | 0 | 0 | 1 | 2 |
 | 90d | 2026-06-12 | 1 | 7 | 0 | 2 | 1 | 8 |
+| last180d | 2026-03-14 | 14 | 31 | 0 | 8 | 1 | 72 |
 | 360d | 2025-09-15 | 17 | 37 | 0 | 9 | 1 | 135 |
+| last720d | 2024-09-20 | 17 | 37 | 0 | 9 | 1 | 163 |
 
-## 代码规模
+## Release 资产
 
-合计: **17,104** 行代码（覆盖前 5 种语言、共 **77** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 16,648 | 165 | 2,709 | 72 |
-| Cpp | 208 | 136 | 40 | 1 |
-| Sh | 132 | 3 | 43 | 1 |
-| Json | 113 | 0 | 0 | 2 |
-| Ini | 3 | 0 | 0 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [llm-pid-tuner.exe](https://github.com/KINGSTON-115/llm-pid-tuner/releases/download/v2.4.7/llm-pid-tuner.exe) | 18.6 MiB | `other` |
 
 ## 改进这些数据
 
@@ -66,4 +69,4 @@ llm-pid-tuner 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:55:20Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:00:04Z._
