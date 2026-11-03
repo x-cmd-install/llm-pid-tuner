@@ -37,7 +37,7 @@ Total: **26,554** lines of code across **117** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 900 · **Forks**: 86 · **Open issues**: 10 · **Contributors**: 5
+- **Stars**: 901 · **Forks**: 86 · **Open issues**: 10 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **26,554** lines of code across **117** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 3 | 15 | 0 | 0 | 0 | 11 |
-| last60d | 2026-09-03 | 3 | 18 | 0 | 1 | 0 | 11 |
-| 90d | 2026-08-04 | 3 | 18 | 0 | 1 | 0 | 12 |
-| last180d | 2026-05-06 | 7 | 28 | 0 | 7 | 0 | 29 |
-| 360d | 2025-11-07 | 20 | 53 | 0 | 10 | 0 | 146 |
-| last720d | 2024-11-12 | 20 | 53 | 0 | 10 | 0 | 174 |
+| 30d | 2026-10-04 | 3 | 15 | 0 | 0 | 0 | 11 |
+| last60d | 2026-09-04 | 3 | 18 | 0 | 1 | 0 | 11 |
+| 90d | 2026-08-05 | 3 | 18 | 0 | 1 | 0 | 12 |
+| last180d | 2026-05-07 | 6 | 28 | 0 | 7 | 0 | 29 |
+| 360d | 2025-11-08 | 20 | 53 | 0 | 10 | 0 | 146 |
+| last720d | 2024-11-13 | 20 | 53 | 0 | 10 | 0 | 174 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for llm-pid-tuner lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:20:49Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:08:11Z._
