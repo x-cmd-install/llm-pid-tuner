@@ -47,12 +47,12 @@ Total: **26,554** lines of code across **117** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 3 | 15 | 0 | 0 | 0 | 9 |
-| last60d | 2026-09-14 | 3 | 15 | 0 | 0 | 0 | 11 |
-| 90d | 2026-08-15 | 3 | 18 | 0 | 1 | 0 | 12 |
-| last180d | 2026-05-17 | 5 | 26 | 0 | 5 | 0 | 25 |
-| 360d | 2025-11-18 | 20 | 53 | 0 | 10 | 0 | 146 |
-| last720d | 2024-11-23 | 20 | 53 | 0 | 10 | 0 | 174 |
+| 30d | 2026-10-15 | 3 | 13 | 0 | 0 | 0 | 9 |
+| last60d | 2026-09-15 | 3 | 15 | 0 | 0 | 0 | 11 |
+| 90d | 2026-08-16 | 3 | 18 | 0 | 1 | 0 | 12 |
+| last180d | 2026-05-18 | 5 | 26 | 0 | 5 | 0 | 25 |
+| 360d | 2025-11-19 | 20 | 53 | 0 | 10 | 0 | 146 |
+| last720d | 2024-11-24 | 20 | 53 | 0 | 10 | 0 | 174 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for llm-pid-tuner lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:04:01Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:52:29Z._
